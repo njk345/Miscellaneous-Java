@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=s
+comment1.target=int\ findWhat(java.util.Scanner)
+comment2.params=s
+comment2.target=int\ truncateHow(java.util.Scanner)
+comment3.params=s\ mystVal
+comment3.target=double[]\ getVals(java.util.Scanner,\ int)
+comment4.params=myst
+comment4.target=int\ targetVar(java.lang.String)
+comment5.params=vals\ mystVal\ truncVal
+comment5.target=java.math.BigDecimal\ calc(double[],\ int,\ int)
+comment6.params=x\ numberofDecimals
+comment6.target=java.math.BigDecimal\ truncateDecimal(double,\ int)
+numComments=7

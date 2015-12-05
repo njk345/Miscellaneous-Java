@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+/Users/njk/Dropbox/Documents/Programming/Java/Eclipse/.metadata/.plugins/org.eclipse.jdt.core
+3301973527.index
+1271342938.index
+3753342716.index
+3688561912.index
+1188938806.index
+57975724.index
+2530618097.index
+960409867.index
+3861527334.index
+364424942.index
+2547940302.index
+3246483238.index
+3027083529.index
+2087539873.index
+195092301.index
+2649669512.index
+3708834288.index
+1431712556.index
+3388682156.index
