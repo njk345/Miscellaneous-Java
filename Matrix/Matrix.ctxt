@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=Matrix(int,\ int)
+comment1.params=rows\ cols\ members
+comment1.target=Matrix(int,\ int,\ double[][])
+comment2.params=rows\ cols\ randMax
+comment2.target=Matrix(int,\ int,\ int)
+comment3.params=
+comment3.target=int[]\ getDimensions()
+comment4.params=row
+comment4.target=double[]\ getRow(int)
+comment5.params=col
+comment5.target=double[]\ getColumn(int)
+comment6.params=
+comment6.target=double[][]\ getData()
+numComments=7
