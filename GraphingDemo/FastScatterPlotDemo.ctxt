@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=FastScatterPlotDemo(java.lang.String)
+comment0.text=\n\ Creates\ a\ new\ fast\ scatter\ plot\ demo.\n\n\ @param\ title\ \ the\ frame\ title.\n
+comment1.params=
+comment1.target=void\ populateData()
+comment1.text=\n\ Populates\ the\ data\ array\ with\ random\ values.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Starting\ point\ for\ the\ demonstration\ application.\n\n\ @param\ args\ \ ignored.\n
+numComments=3
